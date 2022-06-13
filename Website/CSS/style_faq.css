@@ -1,0 +1,25 @@
+.faqs div {
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+.general_faq {
+    padding-top: 50px;
+}
+
+.faqs strong {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.faqs ol {
+    text-align: justify;
+}
+
+.heading_faq {
+    text-align: center;
+}
+
+.end_faq {
+    text-align: center;
+}
